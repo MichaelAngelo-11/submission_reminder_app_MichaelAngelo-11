@@ -99,6 +99,10 @@ Chinemerem,Shell Navigation,not submitted
 Chiagoziem,Git,submitted
 Divine,Shell Navigation,not submitted
 Anissa,Shell Basics,submitted
+Michael, Shell Navigation, not submitted
+Chris, Git, submitted
+Kevin, Shell Navigation, not submitted
+Caroline, Shell Basics, submitted
 EOL
 
 echo "Setup complete!"
